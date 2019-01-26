@@ -6,7 +6,7 @@
 ## Install
 
 ```console
-$ npm install @guntur/alq --global
+$ npm install @guntur/qs --global
 ```
 
 
